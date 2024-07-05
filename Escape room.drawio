@@ -1,11 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T12:24:00.984Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="07ObaHFxO_t0Jm9V0goZ" version="24.6.4" type="google">
+<mxfile host="app.diagrams.net" modified="2024-07-05T07:56:53.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WQS_ecw9DIS3K64qN0F8" version="24.6.4" type="device">
   <diagram name="Page-1" id="w03JW5p4jiyixtSQ4wS0">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1845" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="76n5pHFG8_Tzsg33kYRW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="76n5pHFG8_Tzsg33kYRW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="76n5pHFG8_Tzsg33kYRW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76n5pHFG8_Tzsg33kYRW-1" value="Click on table, answer riddle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-1" value="Get adhesive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-3" value="Correct" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-7" value="end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-8" value="Click on pillow, get rock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-9" value="Click under bed, get handle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-15" value="Incorrect&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="108" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-22" target="uFrCkrXGXWZ8Ss36u2GU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-22" target="uFrCkrXGXWZ8Ss36u2GU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-22" value="Click on window" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-23" value="Flavour text, end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-24" value="Break window, obtain glass shard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-25" value="Stone cannot reach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-26" value="Handle not strong enough to break window" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.939;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-22" target="uFrCkrXGXWZ8Ss36u2GU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-34" value="Handle, no rock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-35" value="Rock, no handle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-36" value="Rock + Handle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-22" target="uFrCkrXGXWZ8Ss36u2GU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-38" value="Neither" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-39" target="uFrCkrXGXWZ8Ss36u2GU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-39" target="uFrCkrXGXWZ8Ss36u2GU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-39" value="Click on floor, rat is gnawing on something. Reach for it?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-40" value="Get long stick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-41" value="Flavour text, end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-44" value="Click on ceiling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-45" value="Obtain key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-46" value="Flavour text, end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.669;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-44" target="uFrCkrXGXWZ8Ss36u2GU-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.142;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-44" target="uFrCkrXGXWZ8Ss36u2GU-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-53" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-55" value="Have adhesive, shard, stick" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="381" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-56" value="Don&#39;t have 1 or more" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="381" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-57" value="Door" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-58" value="Flavour text, end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-59" value="Go to victory screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.858;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-57" target="uFrCkrXGXWZ8Ss36u2GU-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.169;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFrCkrXGXWZ8Ss36u2GU-57" target="uFrCkrXGXWZ8Ss36u2GU-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-62" value="Have key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFrCkrXGXWZ8Ss36u2GU-63" value="No key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="650" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
